@@ -5,7 +5,7 @@ Environment Installation:
 2. pip install requests
 3. pip install simplejson
 4. pip install jsonify
-5. pip install flask
+5. pip install Flask
 
 
 How to run:
